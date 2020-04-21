@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-virtual-scroll-auto/static/css/main.42cc8b22.chunk.css",
+    "main.js": "/react-virtual-scroll-auto/static/js/main.7c0118dd.chunk.js",
+    "main.js.map": "/react-virtual-scroll-auto/static/js/main.7c0118dd.chunk.js.map",
+    "runtime-main.js": "/react-virtual-scroll-auto/static/js/runtime-main.9770d880.js",
+    "runtime-main.js.map": "/react-virtual-scroll-auto/static/js/runtime-main.9770d880.js.map",
+    "static/js/2.5fbe39b7.chunk.js": "/react-virtual-scroll-auto/static/js/2.5fbe39b7.chunk.js",
+    "static/js/2.5fbe39b7.chunk.js.map": "/react-virtual-scroll-auto/static/js/2.5fbe39b7.chunk.js.map",
+    "index.html": "/react-virtual-scroll-auto/index.html",
+    "precache-manifest.567efec702be204a85f0f0821bd25689.js": "/react-virtual-scroll-auto/precache-manifest.567efec702be204a85f0f0821bd25689.js",
+    "service-worker.js": "/react-virtual-scroll-auto/service-worker.js",
+    "static/css/main.42cc8b22.chunk.css.map": "/react-virtual-scroll-auto/static/css/main.42cc8b22.chunk.css.map",
+    "static/js/2.5fbe39b7.chunk.js.LICENSE.txt": "/react-virtual-scroll-auto/static/js/2.5fbe39b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9770d880.js",
+    "static/js/2.5fbe39b7.chunk.js",
+    "static/css/main.42cc8b22.chunk.css",
+    "static/js/main.7c0118dd.chunk.js"
+  ]
+}
