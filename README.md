@@ -1,8 +1,8 @@
-# react-virtual-scroll
+# react-virtual-scroll-auto
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/react-virtual-scroll.svg)](https://www.npmjs.com/package/react-virtual-scroll) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-virtual-scroll-auto.svg)](https://www.npmjs.com/package/react-virtual-scroll-auto) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
