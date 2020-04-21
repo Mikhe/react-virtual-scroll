@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import { VirtualScroll } from 'react-virtual-scroll'
+import { VirtualScroll } from 'react-virtual-scroll-auto'
 
 const lowHeightItems = Array(1000).fill(true).map((_, i) => (
   <div key={i} style={{ height: '50px' }}>{`Element #${i}`}</div>

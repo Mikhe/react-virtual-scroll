@@ -1,13 +1,13 @@
 {
-  "name": "react-virtual-scroll-example",
-  "homepage": "https://Mikhe.github.io/react-virtual-scroll",
+  "name": "react-virtual-scroll-auto-example",
+  "homepage": "https://Mikhe.github.io/react-virtual-scroll-auto",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
     "react-scripts": "file:../node_modules/react-scripts",
-    "react-virtual-scroll": "file:.."
+    "react-virtual-scroll-auto": "file:.."
   },
   "scripts": {
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",

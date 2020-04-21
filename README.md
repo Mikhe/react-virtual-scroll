@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save react-virtual-scroll
+npm install --save react-virtual-scroll-auto
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save react-virtual-scroll
 ```jsx
 import React from 'react'
 
-import { VirtualScroll } from 'react-virtual-scroll'
+import { VirtualScroll } from 'react-virtual-scroll-auto'
 
 class Example extends Component {
   render() {
