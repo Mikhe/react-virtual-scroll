@@ -13,14 +13,18 @@ npm install --save react-virtual-scroll
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react'
 
-import MyComponent from 'react-virtual-scroll'
-import 'react-virtual-scroll/dist/index.css'
+import { VirtualScroll } from 'react-virtual-scroll'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <VirtualScroll
+       items={items}                /* array of children */
+       itemCount={items.length}     /* quantity of children */
+       rowHeight={50}               /* row basic height */
+       containerHeight={200}        /* container height */
+    />
   }
 }
 ```
