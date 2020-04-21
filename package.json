@@ -1,10 +1,10 @@
 {
-  "name": "react-virtual-scroll",
+  "name": "react-virtual-scroll-auto",
   "version": "1.0.0",
   "description": "Made with create-react-library",
   "author": "Mikhe",
   "license": "MIT",
-  "repository": "Mikhe/react-virtual-scroll",
+  "repository": "Mikhe/react-virtual-scroll-auto",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
