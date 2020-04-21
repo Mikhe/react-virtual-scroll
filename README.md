@@ -28,6 +28,9 @@ class Example extends Component {
   }
 }
 ```
+## Live Example
+
+https://mikhe.github.io/react-virtual-scroll-auto/
 
 ## License
 
