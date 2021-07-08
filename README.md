@@ -1,5 +1,7 @@
 # react-virtual-scroll-auto
 
+Sometimes we need a little bit more than just a virtual scroll. For instance, if we have elements without static height.
+
 > Made with create-react-library
 
 [![NPM](https://img.shields.io/npm/v/react-virtual-scroll-auto.svg)](https://www.npmjs.com/package/react-virtual-scroll-auto) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
